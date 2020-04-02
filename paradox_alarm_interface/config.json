@@ -25,7 +25,7 @@
     "LOGGING_DUMP_MESSAGES": false,
     "LOGGING_DUMP_STATUS": false,
     "LOGGING_DUMP_EVENTS": false,
-    "CONNECTION_TYPE": IP,
+    "CONNECTION_TYPE": null,
     "SERIAL_PORT": "/dev/ttyUSB0",
     "SERIAL_BAUD": 9600,
     "IP_CONNECTION_HOST": "192.168.1.50",
